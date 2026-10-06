@@ -1,0 +1,7 @@
+.env
+.venv/
+__pycache__/
+backup-*/
+jobs.sqlite3
+jobs.sqlite3-shm
+jobs.sqlite3-wal
